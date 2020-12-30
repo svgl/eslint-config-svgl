@@ -1,6 +1,6 @@
 {
   "name": "@svgl/eslint-config-svgl",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "ESLint config.",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
   },
   "author": "Seth <npm@vergeyle.net>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^7.16.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.22.1",
