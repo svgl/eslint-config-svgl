@@ -7,14 +7,14 @@ My settings for ESLint.
 1. Install the npm package
 
 ```
-npm i @svgl/eslint-config-svgl
+npm install @svgl/eslint-config-svgl --save-dev
 ```
 
 2. Create `.eslintrc` file and add
 ```json
 {
     "extends": [
-        "svgl"
+        "@svgl/eslint-config-svgl"
     ]
 }
 ```
