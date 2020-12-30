@@ -1,6 +1,6 @@
 {
   "name": "@svgl/eslint-config-svgl",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "ESLint config.",
   "main": "index.js",
   "repository": {
