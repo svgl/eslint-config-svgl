@@ -1,0 +1,24 @@
+{
+  "name": "@svgl/eslint-config-svgl",
+  "version": "1.0.0",
+  "description": "ESLint config.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svgl/eslint-config-svgl"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
+  },
+  "author": "Seth <npm@vergeyle.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
+}
