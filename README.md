@@ -1,6 +1,7 @@
-# Svgl ESLint Configuration
+# ESLint & Prettier Configuration
 
-My settings for ESLint.
+Settings for ESLint and prettier.
+Extends Airbnb configuration and prettier, with plugins for react and prettier.
 
 ## Installing
 
