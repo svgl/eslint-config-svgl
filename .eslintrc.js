@@ -3,6 +3,10 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2020,
   },
+  env: {
+    browser: true,
+    node: true,
+  },
   extends: [
     'plugin:react/recommended',
     'airbnb',
